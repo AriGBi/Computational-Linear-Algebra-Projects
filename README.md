@@ -44,7 +44,7 @@ The project explores how different graph structures affect webpage rankings and 
 - Compared three recognition approaches: nearest-neighbor classification, mean-based representation, and PCA-based Eigenfaces.
 - Applied dimensionality reduction to the **Olivetti Faces dataset**, containing 400 images of 40 individuals.
 
-**Results:** Achieved **97.5% recognition accuracy using only 50 principal components**, matching the full-dimensional baseline while substantially reducing classification cost.
+**Results:** Achieved **97.5% recognition accuracy using 50 principal components** and **90% accuracy with only 7 components**, demonstrating the trade-off between recognition accuracy and computational efficiency through dimensionality reduction.
 
 ---
 
